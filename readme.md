@@ -3,25 +3,25 @@
 
 
 # Project Objectives
-## Build a website using HTML, CSS
-## Add at least one interactive feature using JavaScript
-## Use Git version control
-## Use the command line and file navigation
-## Develop locally on your computer
-## Deploy your site to the web using GitHub Pages
+### Build a website using HTML, CSS
+### Add at least one interactive feature using JavaScript
+### Use Git version control
+### Use the command line and file navigation
+### Develop locally on your computer
+### Deploy your site to the web using GitHub Pages
 
 # Prerequisites:
-## HTML/CSS
-## JavaScript
-## Git and GitHub
-## Command line and file navigation
+### HTML/CSS
+### JavaScript
+### Git and GitHub
+### Command line and file navigation
 
 # The plan
-## Build a website with HTML and CSS an a bit of Javascript. 
+### Build a website with HTML and CSS an a bit of Javascript. 
 
 # website sections
-## home page with bio,profile,skills,technologies,projects,resume
-## contact page with details
+### home page with bio,profile,skills,technologies,projects,resume
+### contact page with details
 
 # wireframes of websites i have created in moqups
 ## home page
